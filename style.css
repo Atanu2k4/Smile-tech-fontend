@@ -132,7 +132,7 @@ footer{
   align-items: center;
   justify-content: space-between;
   position: absolute;
-  bottom: 6%;
+  bottom: 5%;
   padding: 0 40px;
 }
 
@@ -141,6 +141,7 @@ footer{
   height: 5px;
   background-color: red;
   border-radius: 50%;
+  margin-bottom: 3%;
 }
 
 .btm-left h3{
